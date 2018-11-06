@@ -1,4 +1,4 @@
 # Oyeah-
 Oyeah!
 There is C branch!
-pull test!
+pull &&merge!
